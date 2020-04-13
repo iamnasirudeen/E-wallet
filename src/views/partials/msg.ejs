@@ -1,0 +1,13 @@
+<% if(success_msg != ""){ %>
+<div class="alert alert-primary shadow-sm mb-3">
+  <%= success_msg %>
+</div>
+<% } %> <% if(error_msg != ""){ %>
+<div class="alert alert-danger shadow-sm mb-3">
+  <%= error_msg %>
+</div>
+<% } %> <% if(error != ""){ %>
+<div class="alert alert-danger shadow-sm mb-3">
+  <%= error %>
+</div>
+<% } %>
