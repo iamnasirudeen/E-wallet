@@ -21,7 +21,7 @@
   "homepage": "https://github.com/Endowmissy/E-wallet-app#readme",
   "dependencies": {
     "@babel/runtime": "^7.9.2",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bcrypt-nodejs": "0.0.3",
     "bcryptjs": "^2.4.3",
     "connect-mongo": "^3.2.0",
